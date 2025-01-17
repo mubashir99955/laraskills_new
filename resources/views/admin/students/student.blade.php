@@ -19,81 +19,98 @@
             </div>
         </div><!-- /.container-fluid -->
     </section>
+    <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-6">
+              <button class="btn btn-success m-1" style="width: 50%" type="button">560000</button>
+
+          </div>
+          <div class="col-md-6">
+            <div class="d-flex justify-content-end align-items-center gap-2">
+                <button class="btn btn-outline-success  m-1" type="button">+ Enroll</button>
+                <button class="btn btn-outline-success  m-1" type="button">+ Payment</button>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+
 
     <div class="container-fluid my-4">
         <div class="row justify-content-center gap-2">
             <!-- Students -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-dark">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-dark mr-1">
                 <div class="fs-6">50421</div>
                 <div>Students</div>
             </div>
             <!-- Visits -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-danger">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-danger  mr-1">
                 <div class="fs-6">45730</div>
                 <div>Visits</div>
             </div>
             <!-- Wishlist -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-warning">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-warning  mr-1">
                 <div class="fs-6">2371</div>
                 <div>Wishlist</div>
             </div>
             <!-- Cart -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-success">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-success  mr-1">
                 <div class="fs-6">4283</div>
                 <div>Cart</div>
             </div>
             <!-- Order -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-primary">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-primary  mr-1">
                 <div class="fs-6">1980</div>
                 <div>Order</div>
             </div>
             <!-- Paid -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-success">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-success  mr-1">
                 <div class="fs-6">1</div>
                 <div>Paid</div>
             </div>
             <!-- Active -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-primary">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-primary  mr-1">
                 <div class="fs-6">12218</div>
                 <div>Active</div>
             </div>
             <!-- Completed -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-secondary">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-secondary  mr-1">
                 <div class="fs-6">-</div>
                 <div>Completed</div>
             </div>
             <!-- Certified -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-secondary">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-secondary  mr-1">
                 <div class="fs-6">-</div>
                 <div>Certified</div>
             </div>
             <!-- Flag -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-danger">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-danger  mr-1">
                 <div class="fs-6">125</div>
                 <div>Flag</div>
             </div>
             <!-- Review -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-warning">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-warning  mr-1">
                 <div class="fs-6">312</div>
                 <div>Review</div>
             </div>
             <!-- Follow Up -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-primary">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-primary  mr-1">
                 <div class="fs-6">563</div>
                 <div>Follow Up</div>
             </div>
             <!-- N/A -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-secondary">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-secondary  mr-1">
                 <div class="fs-6">-</div>
                 <div>N/A</div>
             </div>
             <!-- Paused -->
-            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-secondary">
+            <div class="col-lg-1 col-md-2 col-sm-4 col-6 text-center border border-secondary  mr-1">
                 <div class="fs-6">-</div>
                 <div>Paused</div>
             </div>
             <!-- Date -->
-            <div class="col-lg-3 col-md-4 col-sm-6 col-12 text-center border border-dark">
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12 text-center border border-dark  mr-1">
                 <div class="fs-6">01/14/2025 - 01/14/2025</div>
             </div>
         </div>
